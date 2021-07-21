@@ -1,2 +1,2 @@
 # usingBASH
-Learn to use BASH
+Learn to use BASH from home and work...
